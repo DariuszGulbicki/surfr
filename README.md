@@ -1,4 +1,4 @@
-# surfr
+# Surfr
 
 Powerful and intuitive web server for Swift
 
