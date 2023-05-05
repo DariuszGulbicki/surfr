@@ -1,0 +1,41 @@
+{
+  "pins" : [
+    {
+      "identity" : "colorizer",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/DariuszGulbicki/Colorizer",
+      "state" : {
+        "revision" : "8e9747fc55861a2969c721967f4a84b95ae5f716",
+        "version" : "1.2.0"
+      }
+    },
+    {
+      "identity" : "ink",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/johnsundell/ink.git",
+      "state" : {
+        "revision" : "77c3d8953374a9cf5418ef0bd7108524999de85a",
+        "version" : "0.5.1"
+      }
+    },
+    {
+      "identity" : "logging-camp",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/DariuszGulbicki/Logging-Camp.git",
+      "state" : {
+        "revision" : "c80b86ecfde4c381996cd6476cc653358341741e",
+        "version" : "1.0.0"
+      }
+    },
+    {
+      "identity" : "swifter",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/httpswift/swifter.git",
+      "state" : {
+        "revision" : "9483a5d459b45c3ffd059f7b55f9638e268632fd",
+        "version" : "1.5.0"
+      }
+    }
+  ],
+  "version" : 2
+}
